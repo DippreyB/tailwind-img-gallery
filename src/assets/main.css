@@ -29135,6 +29135,8 @@ video {
   animation: bounce 1s infinite;
 }
 
+/* npm install -D tailwindcss@latest postcss@latest autoprefixer@latest */
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
